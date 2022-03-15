@@ -1,2 +1,2 @@
-# Color-Chooser
+# Colour-Chooser
 Basic Colour Chooser using java 
